@@ -1,5 +1,7 @@
 # InterviewQAI
 
+## Solution Q2
+Được giải thích cùng với với code trong file [Q2](https://github.com/Binh842/InterviewQAI/blob/d110c3b57ba2d18e80123f5d6108cbc540e00fd0/interview/q2/Q2.ipynb)
 ## Solution Q3
 
 ### Deep Learning
